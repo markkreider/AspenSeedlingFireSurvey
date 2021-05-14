@@ -1,4 +1,6 @@
 # AspenSeedlingFireSurvey
+[![DOI](https://zenodo.org/badge/367380623.svg)](https://zenodo.org/badge/latestdoi/367380623)
+
 Data and scripts to create results and figures as shown in the paper:
 
 "Low-density aspen seedling establishment is widespread following recent wildfires in the western U.S." 
